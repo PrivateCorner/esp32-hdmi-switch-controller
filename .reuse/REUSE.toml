@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "esp32-hdmi-switch-controller"
+SPDX-PackageSupplier = "The PrivateCorner Authors"
+SPDX-PackageDownloadLocation = "https://github.com/PrivateCorner/esp32-hdmi-switch-controller"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2025 The PrivateCorner Authors"
+SPDX-License-Identifier = "Apache-2.0"
