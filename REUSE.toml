@@ -6,5 +6,5 @@ SPDX-PackageDownloadLocation = "https://github.com/PrivateCorner/esp32-hdmi-swit
 [[annotations]]
 path = "**"
 precedence = "aggregate"
-SPDX-FileCopyrightText = "2024 The PrivateCorner Authors"
+SPDX-FileCopyrightText = "2025 The PrivateCorner Authors"
 SPDX-License-Identifier = "Apache-2.0"
